@@ -1,0 +1,15 @@
+.betting-table {
+  width: 200px;
+  margin: 10px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  border: solid 1px black;
+}
+
+button {
+  margin-top: 20px;
+}
